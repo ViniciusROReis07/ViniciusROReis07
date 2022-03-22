@@ -32,7 +32,7 @@ Graduated in the technical course of Systems Development at SENAI, student of th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusROReis07&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![ Spotify ](https://novatorem-ViniciusROReis07.vercel.app/api/spotify)](https://open.spotify.com/user/jdsqyf3tdo7i43qmbgihdcd6z)
 
 
 <!--
