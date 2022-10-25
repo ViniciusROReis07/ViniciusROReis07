@@ -21,14 +21,6 @@ Graduated in the technical course of Systems Development at SENAI, student of th
 ![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
-
-## GITHUB
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusROReis07&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusROReis07&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--[![ Spotify ](https://novatorem-viniciusroreis07.vercel.app/api/spotify)](https://open.spotify.com/user/jdsqyf3tdo7i43qmbgihdcd6z)-->
 
 
