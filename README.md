@@ -1,8 +1,12 @@
 # :octocat: Vinícius Rhuan Oliveira Reis
 
-Graduated in the technical course of Systems Development at SENAI, student of the Bachelor's degree in Computer Engineering at Impacta College and full stack developer at Alphacode IT Solutions.
+Olá! Este é o meu perfil no GitHub, onde compartilho alguns dos projetos que desenvolvo em minha trajetória como programador. Sou um desenvolvedor full-stack com experiência em diversas linguagens de programação, como PHP, Java, Kotlin, Node.js, React e Angular. Tenho interesse especial em projetos que envolvem desenvolvimento web, desde o front-end até o back-end.
 
- [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusrhuanoreis@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/vinicius-reis-9544011a6/) 
+Busco constantemente aprender e aplicar novas tecnologias em meus projetos, e compartilho meu conhecimento e experiência com a comunidade de desenvolvedores. Aqui no GitHub, você encontrará alguns dos meus projetos, incluindo alguns que desenvolvi durante meus estudos, bem como alguns que trabalhei em projetos de clientes.
+
+Sinta-se à vontade para explorar meus projetos, dar uma olhada no meu código e deixar feedback ou sugestões. Se você tiver alguma dúvida ou estiver interessado em colaborar em um projeto, entre em contato comigo! Estou sempre procurando por novas oportunidades de colaboração e aprendizado.
+
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusrhuanoreis@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-rhuan-oliveira-reis-9544011a6/) 
 
 
 
